@@ -1,0 +1,16 @@
+body {
+  background-color: cornflowerblue;
+}
+.change-bg {
+  background-color: red;
+}
+#Zohan {
+  background-image: url(tyrion.gif);
+  height: 300px;
+  transition: all 1s ease;
+  background-repeat: no-repeat;
+}
+#Zohan:hover {
+  transition: all 1s ease;
+  border-radius: 100%;
+}
